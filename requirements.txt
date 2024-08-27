@@ -1,0 +1,6 @@
+# libpq-dev
+# gcc
+psycopg2
+fastapi
+uvicorn
+sqlalchemy
